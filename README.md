@@ -1,12 +1,6 @@
 bitcored-rpc-neobitcoin.js
 ===============
 
-[![NPM Package](https://img.shields.io/npm/v/bitcored-rpc-neobitcoin.svg?style=flat-square)](https://www.npmjs.org/package/bitcored-rpc-neobitcoin)
-[![Build Status](https://img.shields.io/travis/bitcored-rpc-neobitcoin.svg?branch=master&style=flat-square)](https://travis-ci.org/bitcored-rpc-neobitcoin)
-[![Coverage Status](https://img.shields.io/coveralls/bitcored-rpc-neobitcoin.svg?style=flat-square)](https://coveralls.io/r/bitcored-rpc-neobitcoin?branch=master)
-
-A client library to connect to neobitcoin Core RPC in JavaScript.
-
 ## Get Started
 
 bitcored-rpc-neobitcoin.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
